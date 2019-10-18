@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iechaigic.vse-chetko.ru/sitemap.xml
